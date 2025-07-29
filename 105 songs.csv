@@ -1,0 +1,106 @@
+﻿Name,Artist,Energy,Valence,Danceability,Tempo,Acousticness,Mood
+Happy,Pharrell Williams,0.8,0.95,0.82,160,0.1,Happy
+Walking On Sunshine,Katrina & The Waves,0.85,0.92,0.78,109,0.02,Happy
+Can't Stop the Feeling!,Justin Timberlake,0.83,0.93,0.79,113,0.04,Happy
+Best Day Of My Life,American Authors,0.82,0.89,0.73,120,0.05,Happy
+Good Life,OneRepublic,0.72,0.81,0.76,95,0.13,Happy
+I'm Yours,Jason Mraz,0.65,0.87,0.75,76,0.38,Happy
+Happy Now,Zedd,0.79,0.77,0.81,120,0.14,Happy
+Classic,MKTO,0.84,0.88,0.78,115,0.08,Happy
+Sugar,Maroon 5,0.74,0.85,0.75,120,0.07,Happy
+Uptown Girl,Billy Joel,0.78,0.9,0.8,129,0.12,Happy
+Valerie,Amy Winehouse,0.76,0.89,0.75,117,0.1,Happy
+Shake It Off,Taylor Swift,0.85,0.89,0.82,160,0.03,Happy
+I Got You (I Feel Good),James Brown,0.9,0.95,0.74,140,0.06,Happy
+Dynamite,Taio Cruz,0.86,0.88,0.8,120,0.02,Happy
+Havana,Camila Cabello,0.62,0.78,0.74,105,0.28,Happy
+Put Your Records On,Corinne Bailey Rae,0.66,0.84,0.72,94,0.2,Happy
+Pocketful of Sunshine,Natasha Bedingfield,0.75,0.88,0.76,108,0.14,Happy
+Count on Me,Bruno Mars,0.61,0.82,0.7,88,0.32,Happy
+Love On Top,Beyoncé,0.87,0.91,0.77,123,0.05,Happy
+Good as Hell,Lizzo,0.81,0.9,0.83,114,0.07,Happy
+Firework,Katy Perry,0.79,0.85,0.73,124,0.06,Happy
+Someone Like You,Adele,0.2,0.35,0.45,136,0.78,Sad
+When I Was Your Man,Bruno Mars,0.31,0.38,0.52,73,0.56,Sad
+Let Her Go,Passenger,0.29,0.37,0.5,75,0.71,Sad
+All I Want,Kodaline,0.35,0.3,0.48,66,0.64,Sad
+Jealous,Labrinth,0.25,0.34,0.46,84,0.7,Sad
+Hurt,Johnny Cash,0.38,0.19,0.38,82,0.69,Sad
+Liability,Lorde,0.22,0.33,0.4,72,0.65,Sad
+The Night We Met,Lord Huron,0.27,0.28,0.49,85,0.67,Sad
+Tears Dry on Their Own,Amy Winehouse,0.7,0.45,0.71,97,0.18,Sad
+Fix You,Coldplay,0.4,0.26,0.42,138,0.56,Sad
+Youth,Daughter,0.24,0.25,0.37,75,0.69,Sad
+Say Something,A Great Big World,0.21,0.34,0.43,72,0.74,Sad
+Skinny Love,Birdy,0.32,0.29,0.41,71,0.75,Sad
+Un-break My Heart,Toni Braxton,0.33,0.3,0.47,85,0.6,Sad
+Stone Cold,Demi Lovato,0.37,0.34,0.42,77,0.68,Sad
+Breathe Me,Sia,0.36,0.27,0.43,58,0.72,Sad
+Let It Go,James Bay,0.34,0.39,0.52,80,0.55,Sad
+Hallelujah,Jeff Buckley,0.3,0.32,0.44,56,0.79,Sad
+I Will Always Love You,Whitney Houston,0.38,0.35,0.46,67,0.61,Sad
+Everybody Hurts,R.E.M.,0.31,0.18,0.36,76,0.75,Sad
+Falling,Harry Styles,0.33,0.31,0.45,78,0.66,Sad
+Sunset Lover,Petit Biscuit,0.5,0.58,0.64,87,0.56,Calm
+Weightless,Marconi Union,0.2,0.5,0.3,60,0.8,Calm
+Bloom,The Paper Kites,0.36,0.59,0.61,68,0.77,Calm
+Banana Pancakes,Jack Johnson,0.52,0.62,0.65,92,0.52,Calm
+Holocene,Bon Iver,0.45,0.54,0.58,73,0.74,Calm
+Shiver,Lucy Rose,0.41,0.52,0.55,69,0.7,Calm
+Rivers and Roads,The Head and the Heart,0.49,0.53,0.6,88,0.6,Calm
+Ocean Eyes,Billie Eilish,0.38,0.57,0.64,80,0.71,Calm
+Peach,Kevin Abstract,0.48,0.6,0.66,89,0.49,Calm
+Location,Khalid,0.5,0.55,0.63,90,0.45,Calm
+Electric Feel,MGMT,0.57,0.65,0.69,98,0.36,Calm
+The Less I Know The Better,Tame Impala,0.61,0.61,0.71,118,0.28,Calm
+Lover,Taylor Swift,0.53,0.64,0.67,75,0.42,Calm
+Bloom,Troye Sivan,0.54,0.62,0.7,97,0.37,Calm
+Pink + White,Frank Ocean,0.55,0.6,0.68,90,0.5,Calm
+Call It Dreaming,Iron & Wine,0.37,0.59,0.55,73,0.78,Calm
+Better Together,Jack Johnson,0.5,0.66,0.65,81,0.48,Calm
+Cherry Wine,Hozier,0.46,0.56,0.58,87,0.67,Calm
+Such Great Heights,Iron & Wine,0.39,0.58,0.54,85,0.66,Calm
+Sedona,Houndmouth,0.59,0.63,0.7,103,0.41,Calm
+Clearest Blue,CHVRCHES,0.6,0.62,0.72,120,0.3,Calm
+My Demons,Starset,0.91,0.5,0.59,110,0.04,Angry
+Radioactive,Imagine Dragons,0.87,0.4,0.55,136,0.1,Angry
+Smells Like Teen Spirit,Nirvana,0.95,0.38,0.53,117,0.05,Angry
+In The End,Linkin Park,0.92,0.42,0.6,105,0.03,Angry
+Duality,Slipknot,0.98,0.29,0.49,126,0.02,Angry
+Hail to the King,Avenged Sevenfold,0.93,0.36,0.54,130,0.04,Angry
+Break Stuff,Limp Bizkit,0.96,0.31,0.51,98,0.05,Angry
+Bulls on Parade,Rage Against the Machine,0.94,0.33,0.56,116,0.06,Angry
+Killing In The Name,RATM,0.97,0.3,0.5,128,0.03,Angry
+Chop Suey!,System of a Down,0.96,0.35,0.52,127,0.02,Angry
+Monster,Skillet,0.91,0.41,0.57,140,0.05,Angry
+Pain,Three Days Grace,0.9,0.38,0.54,120,0.04,Angry
+Blow Me (One Last Kiss),P!nk,0.88,0.48,0.61,132,0.07,Angry
+Faint,Linkin Park,0.94,0.39,0.58,106,0.03,Angry
+Misery Business,Paramore,0.89,0.44,0.6,170,0.06,Angry
+Heathens,Twenty One Pilots,0.8,0.41,0.62,90,0.2,Angry
+Decode,Paramore,0.87,0.43,0.59,122,0.1,Angry
+Centuries,Fall Out Boy,0.89,0.47,0.65,92,0.06,Angry
+Bleed It Out,Linkin Park,0.93,0.42,0.63,150,0.04,Angry
+abcdefu,GAYLE,0.85,0.42,0.78,122,0.05,Angry
+One Step Closer,Linkin Park,0.96,0.35,0.52,95,0.03,Angry
+Levitating,Dua Lipa,0.84,0.73,0.79,103,0.06,Energetic
+Don't Start Now,Dua Lipa,0.85,0.77,0.8,124,0.05,Energetic
+Blinding Lights,The Weeknd,0.89,0.79,0.78,171,0.03,Energetic
+Can’t Hold Us,Macklemore & Ryan Lewis,0.92,0.75,0.82,146,0.04,Energetic
+Feel This Moment,Pitbull ft. Christina Aguilera,0.88,0.81,0.75,136,0.06,Energetic
+Don't Let Me Down,The Chainsmokers,0.86,0.7,0.79,160,0.07,Energetic
+Titanium,David Guetta ft. Sia,0.89,0.72,0.8,126,0.04,Energetic
+Scream & Shout,will.i.am ft. Britney Spears,0.87,0.76,0.81,130,0.02,Energetic
+Levels,Avicii,0.93,0.78,0.82,126,0.03,Energetic
+Animals,Martin Garrix,0.94,0.65,0.83,128,0.02,Energetic
+Turn Down For What,DJ Snake & Lil Jon,0.98,0.6,0.85,100,0.01,Energetic
+We Found Love,Rihanna,0.9,0.8,0.79,128,0.04,Energetic
+Drag Me Down,One Direction,0.87,0.62,0.7,139,0.04,Energetic
+Party Rock Anthem,LMFAO,0.95,0.82,0.84,130,0.03,Energetic
+I Gotta Feeling,Black Eyed Peas,0.91,0.83,0.81,128,0.02,Energetic
+On The Floor,Jennifer Lopez,0.92,0.75,0.8,130,0.03,Energetic
+Taki Taki,DJ Snake,0.89,0.73,0.79,128,0.04,Energetic
+Where Them Girls At,David Guetta,0.88,0.77,0.76,128,0.06,Energetic
+This Is What You Came For,Calvin Harris,0.86,0.8,0.78,124,0.05,Energetic
+Hey Mama,David Guetta ft. Nicki Minaj,0.9,0.74,0.82,144,0.04,Energetic
+Starships,Nicki Minaj,0.93,0.78,0.83,125,0.02,Energetic
