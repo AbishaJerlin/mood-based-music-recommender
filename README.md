@@ -27,14 +27,14 @@ This project explores how **music and emotions** can be meaningfully connected u
     <td><img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/1.png?raw=true" width="600"/></td>
     <td>
       <b>1. Homepage on Launch</b><br>
-      The landing page that appears when the user runs the application.
+      The initial landing page displayed when the user runs the application.
     </td>
   </tr>
   <tr>
     <td><img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/2.png?raw=true" width="600"/></td>
     <td>
       <b>2. Mood Selection Interface</b><br>
-      Users can choose their current mood from a dropdown to receive personalized music recommendations.
+      Users can select their current mood from a dropdown menu to receive personalized music recommendations.
     </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ This project explores how **music and emotions** can be meaningfully connected u
     <td><img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.1.png?raw=true" width="600"/></td>
     <td>
       <b>6. Interactive Tooltips on Mood Metrics</b><br>
-      • Hovering over the mood metrics reveals insightful tooltips.<br>
+      • Hovering over the mood metrics displays informative tooltips.<br>
       • Includes information on song valence (positivity) and energy levels.
     </td>
   </tr>
@@ -75,15 +75,22 @@ This project explores how **music and emotions** can be meaningfully connected u
     <td>
       <b>7. Checkbox-Triggered Dropdown Filter</b><br>
       • Selecting the checkbox displays a dropdown menu.<br>
-      • Users can select a specific mood to generate customized visual insights.
+      • Users can choose a specific mood to view its playlist insights.
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.3.png?raw=true" width="600"/></td>
+    <td><img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.3.jpg?raw=true" width="600"/></td>
     <td>
       <b>8. Comprehensive Scatter Plot Visualization</b><br>
-      • A black-background scatter plot displays all songs from the playlist based on the chosen mood.<br>
-      • Each point represents a song plotted by its energy and valence levels, using two-color variants and fully labeled axes.
+      Users can now visualize how mood-based logic influences the playlist selection.
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.4.png?raw=true" width="600"/></td>
+    <td>
+      <b>9. Full Playlist Scatter Plot</b><br>
+      • A black-background scatter plot displays all songs in the playlist based on the selected mood.<br>
+      • Each point represents a song, plotted according to its energy and valence levels, with dual-color encoding and clearly labeled axes.
     </td>
   </tr>
 </table>
@@ -155,7 +162,7 @@ mood-based-music-recommender/
 ├── 📓 notebooks/
 │   └── mood_recommender.ipynb
 ├── 🖼️ images/
-│   └── preview_screenshots.png
+│   └── streamlit_app
 ├── app.py
 ├── requirements.txt
 └── README.md
@@ -168,3 +175,12 @@ mood-based-music-recommender/
 Feel the music, live the mood 🎶
 
 ---
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/1.png?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/2.png?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/3.png?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/3.1.png?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.png?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.1.png?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.2.png?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.3.jpg?raw=true" width="600"/>
+<img src="https://github.com/AbishaJerlin/mood-based-music-recommender/blob/main/streamlit%20app/4.4.png?raw=true" width="600"/>
